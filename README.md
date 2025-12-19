@@ -54,10 +54,7 @@
 
 ![Pragnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragneshdubey&show_icons=true&theme=dark)
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pragneshdubey&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragneshdubey&layout=compact&theme=dark)
