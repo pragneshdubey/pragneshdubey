@@ -16,6 +16,15 @@
 
 ---
 
+## ⚠️ Engineering Philosophy (Important)
+
+> **No fake commits. No streak farming. No cosmetic activity.**  
+>  
+> I commit **only when something real is built, fixed, or understood**.  
+> My GitHub reflects **actual debugging, architectural decisions, and production-style work** — not daily green squares.
+
+---
+
 ## 🚧 Current Project
 
 ### **AI Tracking Backend**
@@ -28,7 +37,7 @@
 - Environment-based configuration
 - Swagger-first API design
 
-📌 *This project is actively evolving toward production readiness.*
+📌 *This project evolves through real issues, real fixes, and real commits.*
 
 ---
 
@@ -54,19 +63,16 @@
 
 ![Pragnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragneshdubey&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragneshdubey&layout=compact&theme=dark)
 
 ---
 
-
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/pragnesh-dubey-3a032927b/*
-- 📧 Email: *pragneshdubey08@gmail.com*
+- 💼 LinkedIn: https://www.linkedin.com/in/pragnesh-dubey-3a032927b/
+- 📧 Email: pragneshdubey08@gmail.com
 
 ---
 
-⭐ *I believe consistency beats talent. One commit at a time.*
+⭐ **Consistency beats talent — but honesty beats both.**  
+One real commit at a time.
